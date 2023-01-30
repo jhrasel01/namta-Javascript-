@@ -1,0 +1,23 @@
+
+.Namta{
+    padding: 50px;
+}
+
+.Namta input{
+    width: 200px;
+    padding: 8px 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.Namta button{
+    padding: 6px 30px;
+    margin-left: 10px;
+    border: none;
+    background: tomato;
+    color: #FFF;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}
